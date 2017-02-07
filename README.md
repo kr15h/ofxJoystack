@@ -18,7 +18,7 @@ God knows how to install it on Windows. Updates soon.
 In XCode you should add / link the SDL2.framework once again.
 
 ## License
-[MIT license](LICENSE). © Krisjanis Rijnieks 2017.
+[MIT license](LICENSE). Copyright (c) 2017 Krisjanis Rijnieks.
 
 ## Soon..
 There will be updates...
